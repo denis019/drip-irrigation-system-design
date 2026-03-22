@@ -64,4 +64,3 @@ Output: `garden-layout.pdf` (A4 landscape, single page)
 | `garden-layout.typ` | Typst source for the layout diagram |
 | `garden-layout.pdf` | Compiled diagram |
 | `irrigation_materials_list.md` | Complete materials list with per-zone breakdown |
-| `google-maps.png` | Aerial view with bed labels (not in repo, see .gitignore) |
