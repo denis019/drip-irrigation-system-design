@@ -4,7 +4,7 @@ Single-zone drip irrigation system for a garden with 9 vegetable beds, 5 flower 
 
 ## Layout
 
-![Garden Layout](garden-layout.pdf)
+![Garden Layout](garden-layout.png)
 
 ## System Overview
 
